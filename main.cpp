@@ -4,6 +4,8 @@ void foo()
 {
     // some stuff
     std::cout << "bingus bongus";
+    int a =7;
+    std::cout<<a+8;
 }
 
 
