@@ -14,6 +14,7 @@ int main()
 {
     std:: cout << "our World\n";
 
+    foo();
 
 
     return 0;
