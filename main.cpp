@@ -3,9 +3,9 @@
 void foo()
 {
     // some stuff
-    std::cout << "bingus bongus";
-    int a =7;
-    std::cout<<a+8;
+    std::cout << "bingus bongus\n";
+    int a =76;
+    std::cout<<a+21;
 }
 
 
