@@ -15,6 +15,7 @@ void foo()
 int main()
 {
     std:: cout << "MY World\n";
+    std:: cout << "our Planet\n";
 
     foo();
 
